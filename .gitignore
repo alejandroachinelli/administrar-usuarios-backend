@@ -1,0 +1,15 @@
+bin/
+obj/
+*.user
+*.vscode
+*.suo
+*.userprefs
+*.sln.docstates
+/Data/Migrations/
+appsettings.Development.json
+.project
+.vsconfig
+Build/
+.idea/
+*.suo
+*.userprefs
